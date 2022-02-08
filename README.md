@@ -8,21 +8,10 @@ Este projeto foi desenvolvido utilizando o Flutter, Dart e GetX. Tem como objeti
 
 ## Imagens do Projeto
 
-###### Tela de início
+| Tela de início | Tela de login | Tela de cadastro |
+| ------------ | ------------- | ------------- |
+| <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/01.Inico.png" width="250"> | <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/02.Login.png" width="250">| <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/03.Cadatro.png" width="250">|
 
-| col 1 | col 2 |
-| ------------ | ------------- |
-| <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/01.Inico.png" width="250"> | <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/02.Login.png" width="250">|
-
-![Tela de início](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/01.Inico.png)
-
-Tela de login
-
-![Tela de login](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/02.Login.png)
-
-Tela de cadastro
-
-![Tela de cadastro](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/03.Cadatro.png)
 
 Tela de menu
 
