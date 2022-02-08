@@ -8,3 +8,4 @@ Este projeto foi desenvolvido utilizando o Flutter, Dart e GetX. Tem como objeti
 
 ## Imagens do Projeto
 
+Protótipos
