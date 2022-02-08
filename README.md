@@ -10,6 +10,10 @@ Este projeto foi desenvolvido utilizando o Flutter, Dart e GetX. Tem como objeti
 
 ###### Tela de início
 
+| col 1 | col 2 |
+| ------------ | ------------- |
+| <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/01.Inico.png" width="250"> | <img src="https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/02.Login.png" width="250">|
+
 ![Tela de início](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/01.Inico.png)
 
 Tela de login
