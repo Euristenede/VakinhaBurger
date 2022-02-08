@@ -9,3 +9,19 @@ Este projeto foi desenvolvido utilizando o Flutter, Dart e GetX. Tem como objeti
 ## Imagens do Projeto
 
 Protótipos
+
+![Tela de início](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/01.Inico.png)
+
+![Tela de login](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/02.Login.png)
+
+![Tela de cadastro](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/03.Cadatro.png)
+
+![Tela de menu](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/04.Menu%20.png)
+
+![Tela de detalhes](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/05.Detalhe.png)
+
+![Tela de carrinho](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/06.Carrinho.png)
+
+![Tela de Pix](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/07%20Pix.png)
+
+![Tela de finalização](https://github.com/Euristenede/VakinhaBurger/blob/main/assets/images_figma/07.Finalizado.png)
